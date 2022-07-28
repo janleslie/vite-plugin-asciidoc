@@ -35,7 +35,7 @@
     "html-loader": "3.0.1"
   },
   "peerDependencies": {
-    "vite": "^2.0.0"
+    "vite": "^3.0.0"
   },
   "devDependencies": {
     "@djaler/conventional-changelog-standard": "1.2.0",
